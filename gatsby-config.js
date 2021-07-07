@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `RealAntles Links`,
+    title: `RealAntles`,
     description: `All of the links for content creator RealAntles`,
     author: `@realantles`,
     siteUrl: `https://www.realantles.com`,
