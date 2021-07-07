@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>RealAntles</h1>
+    <h1>Links to all the fun</h1>
     <p>
       <Link to="https://www.twitch.tv/realantles">Twitch</Link> <br />
       <Link to="https://www.youtube.com/channel/UC2S2m5fhKWZbdf6uNravbTg">YouTube</Link> <br />
