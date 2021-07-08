@@ -14,25 +14,25 @@ const IndexPage = () => (
     <ul>
       <li>
         <div className='linkContainer'>
-          <FontAwesomeIcon icon={faTwitch} />
+          <FontAwesomeIcon icon={faTwitch} className='icon' />
           <Link to="https://www.twitch.tv/realantles">Twitch</Link>
         </div>
       </li>
       <li>
         <div className='linkContainer'>
-          <FontAwesomeIcon icon={faYoutube} />
+          <FontAwesomeIcon icon={faYoutube} className='icon' />
           <Link to="https://www.youtube.com/channel/UC2S2m5fhKWZbdf6uNravbTg">YouTube</Link>
         </div>
       </li>
       <li>
         <div className='linkContainer'>
-          <FontAwesomeIcon icon={faTiktok} />
+          <FontAwesomeIcon icon={faTiktok} className='icon' />
           <Link to="https://www.tiktok.com/@realantles?">TikTok</Link> 
         </div>
       </li>
       <li>
         <div className='linkContainer'>
-          <FontAwesomeIcon icon={faTwitter} />
+          <FontAwesomeIcon icon={faTwitter} className='icon' />
           <Link to="https://twitter.com/RealAntles">Twitter</Link>
         </div>
       </li>
