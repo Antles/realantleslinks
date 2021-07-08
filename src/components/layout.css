@@ -166,10 +166,12 @@ ul {
   border: 2px, solid #000 ;
   border-radius: 10px;
   padding: 20px;
+  background-color: #03A9F4;
 }
 .link {
   font-size: 20px;
   text-decoration: none;
+  color: #000;
 }
 button,
 input,
