@@ -13,10 +13,12 @@ const IndexPage = () => (
     <h1>Links To All The Fun</h1>
     <ul>
       <li>
-        <div className='linkContainer'>
-          <FontAwesomeIcon icon={faTwitch} className='icon' />
-          <Link to="https://www.twitch.tv/realantles" className='link'>Twitch</Link>
-        </div>
+          <Link to="https://www.twitch.tv/realantles" className='link'>
+            <div className='linkContainer'>
+              <FontAwesomeIcon icon={faTwitch} className='icon' />
+              Twitch
+            </div> 
+          </Link> 
       </li>
       <li>
         <div className='linkContainer'>
