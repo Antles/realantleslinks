@@ -22,6 +22,7 @@ const Header = ({ siteTitle }) => (
           style={{
             color: `#382c2a`,
             textDecoration: `none`,
+            textAlign: 'center'
           }}
         >
           {siteTitle}
