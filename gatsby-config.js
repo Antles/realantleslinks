@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://www.realantles.com`,
   },
   plugins: [
+    `gatsby-plugin-fontawesome-css`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {

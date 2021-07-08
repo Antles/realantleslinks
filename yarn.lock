@@ -1073,7 +1073,7 @@
   "resolved" "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.35.tgz"
   "version" "0.2.35"
 
-"@fortawesome/fontawesome-svg-core@^1.2.32", "@fortawesome/fontawesome-svg-core@^1.2.35":
+"@fortawesome/fontawesome-svg-core@^1.2.0", "@fortawesome/fontawesome-svg-core@^1.2.32", "@fortawesome/fontawesome-svg-core@^1.2.35":
   "integrity" "sha512-uLEXifXIL7hnh2sNZQrIJWNol7cTVIzwI+4qcBIq9QWaZqUblm0IDrtSqbNg+3SQf8SMGHkiSigD++rHmCHjBg=="
   "resolved" "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.35.tgz"
   "version" "1.2.35"
@@ -5904,6 +5904,11 @@
     "lodash" "^4.17.21"
     "micromatch" "^4.0.2"
 
+"gatsby-plugin-fontawesome-css@^1.1.0":
+  "integrity" "sha512-7rAiOpTXtkLjHCrASY9Bmvq4c3UFDqj2ZZPuKTyRgK92+tL675tAIlSU5Rjv8HfftNWIkmFKm8uJF3EPT+OpBA=="
+  "resolved" "https://registry.npmjs.org/gatsby-plugin-fontawesome-css/-/gatsby-plugin-fontawesome-css-1.1.0.tgz"
+  "version" "1.1.0"
+
 "gatsby-plugin-gatsby-cloud@^2.8.1":
   "integrity" "sha512-pxKmaqpymQZbGWHd3T4rPBFFXJSxza8XGhZ8BD3m0HgRnoCWTq61BqcoajGYXzDTa4YQrJp3rkbI2KBnWsYzRw=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-2.8.1.tgz"
@@ -6151,7 +6156,7 @@
     "semver" "^7.3.4"
     "sharp" "^0.28.0"
 
-"gatsby@^3.0.0-next.0", "gatsby@^3.8.1":
+"gatsby@^3.0.0", "gatsby@^3.0.0-next.0", "gatsby@^3.8.1":
   "integrity" "sha512-IZphTACphil3F9ODtAYASA4+l8ErIae4eSTG0a5q9YSpSsfZBBCA5YblRIv+j/7Qi1XX9fP/eNnaxbyurqsPOw=="
   "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-3.8.1.tgz"
   "version" "3.8.1"
