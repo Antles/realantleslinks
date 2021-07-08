@@ -21,22 +21,28 @@ const IndexPage = () => (
           </Link> 
       </li>
       <li>
-        <div className='linkContainer'>
-          <FontAwesomeIcon icon={faYoutube} className='icon' />
-          <Link to="https://www.youtube.com/channel/UC2S2m5fhKWZbdf6uNravbTg" className='link'>YouTube</Link>
-        </div>
+          <Link to="https://www.youtube.com/channel/UC2S2m5fhKWZbdf6uNravbTg" className='link'>
+            <div className='linkContainer'>
+              <FontAwesomeIcon icon={faYoutube} className='icon' />
+              Youtube
+            </div> 
+          </Link> 
       </li>
       <li>
-        <div className='linkContainer'>
-          <FontAwesomeIcon icon={faTiktok} className='icon' />
-          <Link to="https://www.tiktok.com/@realantles?" className='link'>TikTok</Link> 
-        </div>
+          <Link to="https://www.tiktok.com/@realantles?" className='link'>
+            <div className='linkContainer'>
+              <FontAwesomeIcon icon={faTiktok} className='icon' />
+              TikTok
+            </div> 
+          </Link> 
       </li>
       <li>
-        <div className='linkContainer'>
-          <FontAwesomeIcon icon={faTwitter} className='icon' />
-          <Link to="https://twitter.com/RealAntles" className='link'>Twitter</Link>
-        </div>
+          <Link to="https://twitter.com/RealAntles" className='link'>
+            <div className='linkContainer'>
+              <FontAwesomeIcon icon={faTwitter} className='icon' />
+              Twitter
+            </div> 
+          </Link> 
       </li>
     </ul>
   </Layout>
