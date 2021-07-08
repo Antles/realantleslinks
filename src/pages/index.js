@@ -2,7 +2,8 @@ import * as React from "react"
 import { Link } from "gatsby"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { fab, faTiktok, faTwitch, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { faTwitch, faTwitter, faYoutube, faTiktok } from '@fortawesome/free-solid-svg-icons'
 
 
 library.add(fab, faTwitch, faTwitter, faYoutube, faTiktok)
