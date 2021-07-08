@@ -165,8 +165,11 @@ ul {
 
 .linkContainer {
   border: 2px, solid #000 ;
-  border-radius: 50%;
-  padding: 10px;
+  border-radius: 10px;
+  padding: 20px;
+}
+link {
+  font-size: 20px;
 }
 button,
 input,
