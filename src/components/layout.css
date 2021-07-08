@@ -155,6 +155,13 @@ hr {
   border: none;
   height: 1px;
 }
+ul {
+  list-style-type: none;
+}
+
+.linkContainer {
+  border: 2px, solid #000 ;
+}
 button,
 input,
 optgroup,
