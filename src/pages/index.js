@@ -12,25 +12,25 @@ const IndexPage = () => (
     <ul>
       <li>
         <div>
-          <i class="fab fa-twitch"></i>
+          <FontAwesomeIcon icon={["fab", "twitch"]} />
           <Link to="https://www.twitch.tv/realantles">Twitch</Link>
         </div>
       </li>
       <li>
         <div>
-        <i class="fab fa-youtube"></i>
+        <FontAwesomeIcon icon={["fab", "youtube"]} />
           <Link to="https://www.youtube.com/channel/UC2S2m5fhKWZbdf6uNravbTg">YouTube</Link>
         </div>
       </li>
       <li>
         <div>
-        <i class="fab fa-tiktok"></i>
+        <FontAwesomeIcon icon={["fab", "tiktok"]} />
           <Link to="https://www.tiktok.com/@realantles?">TikTok</Link> 
         </div>
       </li>
       <li>
         <div>
-        <i class="fab fa-twitter"></i>
+        <FontAwesomeIcon icon={["fab", "twitter"]} />
           <Link to="https://twitter.com/RealAntles">Twitter</Link>
         </div>
       </li>
